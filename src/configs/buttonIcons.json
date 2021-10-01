@@ -1,0 +1,10 @@
+{
+  "edit": "edit",
+  "add": "add",
+  "delete": "delete",
+  "logout": "logout",
+  "group_add": "group_add",
+  "close": "close",
+  "arrow_back": "arrow_back",
+  "addchart": "addchart"
+}
